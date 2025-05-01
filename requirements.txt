@@ -1,0 +1,8 @@
+openai==1.76.0
+pandas
+pyspark
+matplotlib
+seaborn
+lightgbm
+flask>=2.3
+duckdb
